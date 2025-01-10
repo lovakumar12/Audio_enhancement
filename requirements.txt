@@ -1,0 +1,3 @@
+pedalboard
+noisereduce
+torch
